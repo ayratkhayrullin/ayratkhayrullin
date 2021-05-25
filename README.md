@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayratkhayrullin
-- 👀 I’m interested in lined data
+- 👀 I’m interested in linked data
 - 🌱 I’m currently learning graph theory
 - 💞️ I’m looking to collaborate on graph visualisation
 - 📫 How to reach me. Find me in E Messenger :)
